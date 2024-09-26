@@ -14,3 +14,14 @@ console.log(buttion)
 ```
 
 ```go
+package main
+func main() {
+  name:= "Ojo"
+}
+```
+
+```rust
+fn main()}
+let name:String = String::new();
+name = String::Push("Ojo")
+let age:
