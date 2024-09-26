@@ -6,3 +6,8 @@
 ```python
 for i in range (0, 1000):
   print(print(i))
+
+```javascript
+let button = document.getElementByID("btn")
+console.log(buttion)
+```Go
