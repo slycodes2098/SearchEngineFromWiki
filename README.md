@@ -3,3 +3,6 @@
 ## The codes runs on python
 ~
 `for i in range (1000, 2): pass`
+```python
+for i in range (0, 1000):
+  print(print(i))
