@@ -6,8 +6,11 @@
 ```python
 for i in range (0, 1000):
   print(print(i))
+```
 
-```javascript
+```Javascript
 let button = document.getElementByID("btn")
 console.log(buttion)
-```Go
+```
+
+```go
